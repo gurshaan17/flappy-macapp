@@ -1,0 +1,3 @@
+/Users/gurshaansinghdult/Desktop/flappy-bird/build/CMakeFiles/FlappyBird.dir
+/Users/gurshaansinghdult/Desktop/flappy-bird/build/CMakeFiles/edit_cache.dir
+/Users/gurshaansinghdult/Desktop/flappy-bird/build/CMakeFiles/rebuild_cache.dir
